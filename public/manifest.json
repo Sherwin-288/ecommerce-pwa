@@ -1,0 +1,21 @@
+{
+  "short_name": "Footwear Store",
+  "name": "Footwear Progressive Web App",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ff6600",
+  "background_color": "#ffffff",
+  "description": "Shop the latest trendy footwear, from sneakers to formal shoes, at the best prices!"
+}
