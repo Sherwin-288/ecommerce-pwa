@@ -2,7 +2,7 @@
   "name": "ecommerce-pwa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Sherwin-288.github.io/E-commerce-PWA",
+  "homepage": "https://Sherwin-288.github.io/ecommerce-pwa",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
